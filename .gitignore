@@ -1,0 +1,37 @@
+# =========================
+# FRONTEND
+# =========================
+
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+
+
+# =========================
+# BACKEND
+# =========================
+
+backend/target/
+backend/.idea/
+backend/*.iml
+
+backend/src/main/resources/application.properties
+
+backend/.env
+
+backend/uploads/
+
+
+# =========================
+# IDE / SYSTEM
+# =========================
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+*.log
